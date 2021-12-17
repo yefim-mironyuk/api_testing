@@ -5,7 +5,7 @@
 
 1) Clone the repository.
 
-``$ git clone https://github.com/EgorSolenok/TestingAPI.git``
+``$ git clone https://github.com/yefim-mironyuk/api_testing.git``
 
 2) Install allure command line and add the allure folder installation into system environment variable: https://docs.qameta.io/allure/#_installing_a_commandline
 
